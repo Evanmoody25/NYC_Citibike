@@ -110,7 +110,7 @@ You must use the five visualizations that you created in Deliverable 2.
 
 - I believe the next best study that can be done is where are the bikes being checked out the most. I want to know if there is a high spike near residential areas and near areas of occupation. Living in a city presents bikes the opportunity to overtake cars due to their inherent advantage of not needing a parking space and not needing to put up with city traffic. Perhaps we can maximize profit by locating our bike terminals near residential and occupational locations. 
 
--Second, we need to see how weather affects the bikes' popularity. New York can be an extreme city. Having fewer bikes out during the cold months may allow us to cut back on maintanence costs by removing the bikes from the elements and sporatic usage when marginal cost is greater then the marginal benefit. 
+- Second, we need to see how weather affects the bikes' popularity. New York can be an extreme city. Having fewer bikes out during the cold months may allow us to cut back on maintanence costs by removing the bikes from the elements and sporatic usage when marginal cost is greater then the marginal benefit. 
 
 - I also am fixated on the high rate of men using the bikes compared to women. Does fear of crime prevent women from using the bikes? What else may be causing the stark divide? 
 
