@@ -86,7 +86,7 @@ Using Tableau, create visualizations that show:
 
 -A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
 
-# Deliverable 3 (the link to the story can be found on the main branch of the repository)
+# Deliverable 3 (the link to the story can be found on the main branch of the repository, my findings will be posted there as well)
 
 For this part of the Challenge, you’ll create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis you did in the module and in Deliverable 2.
 
