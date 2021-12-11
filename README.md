@@ -38,6 +38,66 @@ Here lies the results of the code.
 
 ![tripduration_updated](https://user-images.githubusercontent.com/89880015/145671825-342faec0-35ca-4e8f-afae-df9255e02541.PNG)
 
-# Conclusion on Deliverable 1
+# Deliverable 1 Requirments 
 
-As you can see, I have properly adjusted the "tripducation" data and am prepared to work on Deliverable 2. 
+-The data in the "tripduration" column is converted to a datetime datatype and has the correct time format (15 pt)
+
+-The DataFrame is exported as a new file without the index column (5 pt) 
+
+# Deliverable 2
+
+Using Tableau, create visualizations that show:
+
+-How long bikes are checked out for all riders and genders.
+
+-How many trips are taken by the hour for each day of the week, for all riders and genders.
+
+-A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+# Checkout Times for Users
+
+![Checkout_for_users](https://user-images.githubusercontent.com/89880015/145672009-237ec51a-3371-49de-bfdc-f5a7c408cb13.PNG)
+
+# Checkout Times by Gender
+
+![Checkout_by_gender](https://user-images.githubusercontent.com/89880015/145672018-3ad02d48-c4fa-42db-9026-6b8e2f6588f7.PNG)
+
+# Trips by Weekday
+
+![Trips_by_gender](https://user-images.githubusercontent.com/89880015/145672035-dfdfebd2-0a4e-45e1-92ef-49d6479045a7.PNG)
+
+# Trips by Gender
+
+![Trips_by_Gender_week_hour](https://user-images.githubusercontent.com/89880015/145672053-85dd6d75-93ba-4d1d-bfdb-04e475f371c4.PNG)
+
+# User trips by gender by weekday
+
+![Trips_by_gender_by_weekday](https://user-images.githubusercontent.com/89880015/145672068-91a26e0f-4283-4dda-ae9f-48750e10cfbe.PNG)
+
+# Deliverable 2 Requirements:
+
+-There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
+
+-There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
+
+-A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
+
+-A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
+
+-A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
+
+# Deliverable 3 (the link to the story can be found on the main branch of the repository)
+
+For this part of the Challenge, you’ll create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis you did in the module and in Deliverable 2.
+
+Follow the instructions below to complete Deliverable 2.
+
+In Tableau, create a new Story using visualizations that will support the key findings you want to show.
+
+You must use the five visualizations that you created in Deliverable 2.
+
+
+
+
+
+
