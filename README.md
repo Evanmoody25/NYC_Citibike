@@ -96,6 +96,24 @@ In Tableau, create a new Story using visualizations that will support the key fi
 
 You must use the five visualizations that you created in Deliverable 2.
 
+# analysis
+
+- We know that the majority of rides take place whithin the first hour and do not go over. This leads me to believe that, when matched with the spikes in usage during to and from work commutes, that the bikes are being used to travel to and from one's occupation. 
+
+- The majority of our users ae men, in what ways can we boost our customers and subscriptions by making our product more attractive to females? 
+
+- There is also a spike in usage during the weekend. 
+
+- There is also about 80% subscriptions and 20% customers. 
+
+# summary 
+
+- I believe the next best study that can be done is where are the bikes being checked out the most. I want to know if there is a high spike near residential areas and near areas of occupation. Living in a city presents bikes the opportunity to overtake cars due to their inherent advantage of not needing a parking space and not needing to put up with city traffic. Perhaps we can maximize profit by locating our bike terminals near residential and occupational locations. 
+
+-Second, we need to see how weather affects the bikes' popularity. New York can be an extreme city. Having fewer bikes out during the cold months may allow us to cut back on maintanence costs by removing the bikes from the elements and sporatic usage when marginal cost is greater then the marginal benefit. 
+
+- I also am fixated on the high rate of men using the bikes compared to women. Does fear of crime prevent women from using the bikes? What else may be causing the stark divide? 
+
 # Deliverable 3 Requirements
 
 You will earn a perfect score for Deliverable 3 by completing all requirements below:
