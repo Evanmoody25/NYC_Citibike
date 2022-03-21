@@ -38,13 +38,13 @@ Here lies the results of the code.
 
 ![tripduration_updated](https://user-images.githubusercontent.com/89880015/145671825-342faec0-35ca-4e8f-afae-df9255e02541.PNG)
 
-# Deliverable 1 Requirments 
+# Part 1 
 
--The data in the "tripduration" column is converted to a datetime datatype and has the correct time format (15 pt)
+-The data in the "tripduration" column is converted to a datetime datatype and has the correct time format
 
--The DataFrame is exported as a new file without the index column (5 pt) 
+-The DataFrame is exported as a new file without the index column
 
-# Deliverable 2
+# Part 2
 
 Using Tableau, create visualizations that show:
 
@@ -74,19 +74,19 @@ Using Tableau, create visualizations that show:
 
 ![Trips_by_gender_by_weekday](https://user-images.githubusercontent.com/89880015/145672068-91a26e0f-4283-4dda-ae9f-48750e10cfbe.PNG)
 
-# Deliverable 2 Requirements:
+# Part 2 Requirements:
 
--There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
+-There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour
 
--There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender (10 pt)
+-There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender
 
--A heatmap is created showing the number of bike trips for each hour of each day of the week (10 pt)
+-A heatmap is created showing the number of bike trips for each hour of each day of the week
 
--A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender (10 pt)
+-A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
 
--A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender (10 pt)
+-A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
 
-# Deliverable 3 (the link to the story can be found on the main branch of the repository, my findings will be posted there as well)
+# Part 3 (the link to the story can be found on the main branch of the repository, my findings will be posted there as well)
 
 For this part of the Challenge, you’ll create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis you did in the module and in Deliverable 2.
 
@@ -118,33 +118,33 @@ You must use the five visualizations that you created in Deliverable 2.
 
 You will earn a perfect score for Deliverable 3 by completing all requirements below:
 
-Structure, Organization, and Formatting (6 points)
+Structure, Organization, and Formatting 
 
 The written analysis has the following structure, organization, and formatting:
 
-There is a title, and there are multiple sections. (2 pt)
+There is a title, and there are multiple sections. 
 
-Each section has a heading and subheading. (2 pt)
+Each section has a heading and subheading. 
 
-Links to images are working and displayed correctly. (2 pt)
+Links to images are working and displayed correctly. 
 
-Analysis (24 points)
+Analysis 
 
 The written analysis has the following:
 
 Overview of the statistical analysis:
 
-The purpose of the analysis is well defined. (5 pt)
+The purpose of the analysis is well defined. 
 
 Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
+There are at least seven visualizations for the NYC Citibike analysis
 
-There is a description of the results for each visualization (7 pt)
+There is a description of the results for each visualization 
 
 Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+There is a high-level summary of the results and two additional visualizations are suggested for future analysis
 
 
 
